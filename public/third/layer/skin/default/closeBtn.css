@@ -1,0 +1,10 @@
+/* 需要将js中closeBtn设置为closeBtn:2;再引入这个css文件 */
+.layui-layer-setwin{
+                    position:static;
+                    width: 100%;
+                    text-align: center;
+            }
+.layui-layer-setwin .layui-layer-close2{
+                right: -15px;
+                top: -15px;
+            }
